@@ -32,7 +32,7 @@ As ferramentas abaixo não são necessárias, mas podem ser úteis para testes p
 ## :rocket: Como executar
 1. Clonar repositório
 
-<pre><code>git clone https://github.com/gabriel1997castro/proffyPlataform</code></pre>
+<pre><code>git clone https://github.com/gabriel1997castro/proffy</code></pre>
 
 2. Instalar dependências da aplicação
 
