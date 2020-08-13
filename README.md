@@ -2,6 +2,11 @@
      Proffy
 </h1>
 <h2 align="center"> Node.js | ReactJS | React Native <h2>
+<p align="center">
+  <a href="#zap-sobre">Sobre</a>&nbsp;|&nbsp;
+  <a href="#gear-dependências">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-como-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 ## :zap: Sobre
 
