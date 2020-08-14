@@ -6,7 +6,10 @@
   <a href="#zap-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#gear-dependências">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-como-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+     <a href="camera-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+ 
+![Proffy](https://github.com/gabriel1997castro/proffy/blob/master/assets/cover.PNG?raw=true)
 
 ## :zap: Sobre
 
@@ -69,3 +72,13 @@ As ferramentas abaixo não são necessárias, mas podem ser úteis para testes p
 <pre><code>
      yarn start # ou npm start
 </code></pre>
+
+## :camera: Imagens
+
+### Web
+![Página incial do proffy](https://github.com/gabriel1997castro/proffy/blob/master/assets/web1.PNG?raw=true)
+![Pesquisa](https://github.com/gabriel1997castro/proffy/blob/master/assets/web2.PNG?raw=true)
+![Cadastro](https://github.com/gabriel1997castro/proffy/blob/master/assets/web3.PNG?raw=true)
+
+
+
