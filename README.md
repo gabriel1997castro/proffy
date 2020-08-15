@@ -6,7 +6,7 @@
   <a href="#zap-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#gear-dependências">Dependências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-como-executar">Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-     <a href="camera-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera-imagens">Imagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
  
 ![Proffy](https://github.com/gabriel1997castro/proffy/blob/master/assets/cover.PNG?raw=true)
