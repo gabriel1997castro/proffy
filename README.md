@@ -76,9 +76,24 @@ As ferramentas abaixo não são necessárias, mas podem ser úteis para testes p
 ## :camera: Imagens
 
 ### Web
+
+* Página inicial
 ![Página incial do proffy](https://github.com/gabriel1997castro/proffy/blob/master/assets/web1.PNG?raw=true)
+
+
+* Página de pesquisa professores
 ![Pesquisa](https://github.com/gabriel1997castro/proffy/blob/master/assets/web2.PNG?raw=true)
+
+
+* Página de cadastro de professores
 ![Cadastro](https://github.com/gabriel1997castro/proffy/blob/master/assets/web3.PNG?raw=true)
 
+### Mobile
+<div class="display=flex; justify-content=space-between;">
+     <img src="./assets/mobile1.jpg" alt="Tela inicial" width="200" />
+     <img src="./assets/mobile2.jpg" alt="Tela de pesquisa" width="200" />
+     <img src="./assets/mobile3.jpg" alt="Professores disponíveis" width="200" />
+     <img src="./assets/mobile4.jpg" alt="Professores favoritos" width="200" />
+</div>
 
 
