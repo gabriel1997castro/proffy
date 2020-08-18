@@ -5,7 +5,7 @@
 <h2 align="center"> Node.js | ReactJS | React Native <h2>
 <p align="center">
   <a href="#zap-about">About</a>&nbsp;|&nbsp;
-  <a href="#gear-requerements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-run">Run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#camera-images">Images</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
