@@ -17,7 +17,7 @@
 Algumas funcionalidades novas foram acrescentadas.
 
 A plataforma foi feita para ajudar a conectar alunos com professores. 
-Dentro da Proffy um professor pode se cadastrar colocando seus dados colocando as matérias que leciona assim com os dias e horários disponíveis.
+Dentro da Proffy um professor pode se cadastrar colocando seus dados, as matérias que leciona assim com os dias e horários disponíveis.
 Depois de ter cadastro efetuado cadastro seu dados de contato poderá aparecer na página de pesquisa que pode ser usada por um aluno.
 
 
