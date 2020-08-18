@@ -1,4 +1,4 @@
-<a href="https://github.com/gabriel1997castro/proffy/edit/master/README_EN.md">Português</p>
+<a href="https://github.com/gabriel1997castro/proffy/edit/master/README_PT.md">Português</p>
 <h1 align="center">
      Proffy
 </h1>
