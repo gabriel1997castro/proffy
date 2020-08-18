@@ -59,7 +59,7 @@ As ferramentas abaixo não são necessárias, mas podem ser úteis para testes p
   # Instalar as dependências
   $ yarn # ou npm install
   # Voltar a pasta principal
-  # cd ..
+  $ cd ..
 
   # Aplicação mobile
   $ cd mobile
