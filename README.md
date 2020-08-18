@@ -33,7 +33,7 @@ After the process of registering, the contact data of the teacher can appear ins
 -  [Typescript](https://www.typescriptlang.org/)
 
 ### Optional tools
-The following tools are not required, but they can be helpful on test for example.
+The following tools are not required, but they can be helpful on tests for example.
 - [Insomnia](https://insomnia.rest/) - to do requests to the api
 - [NVM](https://github.com/nvm-sh/nvm) - manage Node.js versions.
 - [YARN](https://yarnpkg.com/) - alternative to NPM
@@ -60,7 +60,7 @@ The following tools are not required, but they can be helpful on test for exampl
   # Install the dependencies
   $ yarn # ou npm install
   # Back to the principal folder
-  # cd ..
+  $ cd ..
 
   # Mobile app
   $ cd mobile
@@ -69,7 +69,7 @@ The following tools are not required, but they can be helpful on test for exampl
 </code></pre>
 
 3. Run
-     Open 3 terminal windows and type inside the server, mobile and web folders:
+     Open 3 terminal windows and type the following commands inside the server, mobile and web folders:
 <pre><code>
      yarn start # ou npm start
 </code></pre>
